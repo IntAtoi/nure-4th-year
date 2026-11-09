@@ -1,0 +1,58 @@
+The sky is blue due to a phenomenon in physics called **Rayleigh scattering**.
+
+This effect explains why the sky appears blue during the day, why sunsets are red, and why the sky near the sun appears white.
+
+Here is a detailed breakdown of how this process works.
+
+---
+
+## 1. The Ingredients: Sunlight and Atmosphere
+
+To understand why the sky is blue, we need two main components:
+
+### A. Sunlight
+Sunlight, which appears white to us, is actually made up of a spectrum of different colors (like a rainbow). Each color corresponds to a different **wavelength** of light.
+
+*   **Shorter wavelengths** (like blue and violet) have higher energy.
+*   **Longer wavelengths** (like red, orange, and yellow) have lower energy.
+
+### B. The Atmosphere
+Earth's atmosphere is composed primarily of tiny molecules of nitrogen ($\text{N}_2$) and oxygen ($\text{O}_2$). These molecules are much smaller than the wavelength of visible light.
+
+## 2. The Mechanism: Rayleigh Scattering
+
+When sunlight enters the Earth's atmosphere, it interacts with these tiny gas molecules. This interaction causes the light to scatter in all directions. This scattering process is called **Rayleigh scattering**.
+
+The crucial part of Rayleigh scattering is that it is **inversely proportional to the fourth power of the wavelength ($\lambda^4$)**.
+
+**In simpler terms:** Shorter wavelengths of light (blue and violet) are scattered much more effectively by the small molecules than longer wavelengths (red and orange).
+
+*   **Blue light** is scattered about 10 times more effectively than red light.
+*   **Violet light** (which has an even shorter wavelength) is scattered even more intensely than blue light.
+
+## 3. The Result: Why We See Blue
+
+Because blue and violet light are scattered so intensely, they are redirected by the atmospheric molecules in every direction—up, down, and sideways—across the entire sky.
+
+When you look up at the sky (away from the direct path of the sun), you are seeing this scattered blue light coming from all directions. This makes the sky appear blue.
+
+### Why Not Violet?
+
+Violet light is scattered the most intensely, but the sky looks blue for two reasons:
+
+1.  **Solar Output:** The sun emits slightly less violet light than blue light.
+2.  **Human Perception:** Our eyes are less sensitive to violet light than they are to blue light.
+
+Therefore, the combination of the scattering intensity and our visual perception results in the beautiful, familiar blue color of the daytime sky.
+
+---
+
+## Bonus: Related Phenomena
+
+### Why Sunsets are Red
+When the sun is setting (or rising), the sunlight has to travel through a much thicker layer of atmosphere to reach your eyes. During this long journey, almost all the shorter-wavelength colors (blue and green) are scattered away and diffused across the sky.
+
+What is left to travel in a relatively straight line to your eyes are the **longer wavelengths** (red, orange, and yellow), which is why the sun and the horizon appear red.
+
+### Why the Sky is White Around the Sun
+When you look directly at the sun, you see it as bright white. This is because the light that reaches your eye is a mix of the direct, unscattered sunlight, plus the scattered blue light from the atmosphere surrounding the sun.
